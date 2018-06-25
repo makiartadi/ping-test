@@ -1,0 +1,4 @@
+#ignore rpm, swp, whole pkg/ diretory
+*.rpm
+*.swp
+pkg/
