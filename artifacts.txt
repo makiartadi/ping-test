@@ -1,0 +1,1 @@
+https://10-138529312-gh.circle-artifacts.com/0/root/project/pkg/pingtest-1.0-1.el7.noarch.rpm
